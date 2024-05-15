@@ -5,8 +5,7 @@
     border-radius: 4px;
     box-shadow: 0px 1px 2px (0,0,0,.1);
     text-transform: uppercase;
-    color: #332200;
-    font-family: ;
+    color: var(--cor-p5);
     font-size: 18;
     line-height: 1.33;
     font-family: 'Poppins';
